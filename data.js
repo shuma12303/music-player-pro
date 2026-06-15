@@ -29,7 +29,7 @@ const songs = [
     title: 'My Love',
     artist: 'Westlife',
     cover: 'https://images.unsplash.com/photo-1493225545571-aeb161ffa5f?w=500&h=500&fit=crop',
-    mp3: 'https://shuma-music.pages.dev/music/Westlife-My Love.mp3'
+    mp3: 'https://shuma-music.pages.dev/Westlife-My%20Love.mp3'
   },
   {
     title: '千千阙歌',
