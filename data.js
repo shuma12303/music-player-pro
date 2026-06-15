@@ -17,50 +17,44 @@ const songs = [
     標題: '花香',
     藝術家: '許紹洋',
     覆蓋物: 'https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=500&h=500&fit=crop',
-    音訊: 'https://shuma-music.pages.dev/許紹洋 花香_320k.mp3'
+    音訊: 'https://shuma-music.pages.dev/music/許紹洋 花香_320k.mp3'
   },
   {
     標題: '直到世界的尽头',
     藝術家: '灌篮高手 三井寿之歌',
     覆蓋物: 'https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&h=500&fit=crop',
-    音訊: 'https://shuma-music.pages.dev/灌籃高手 三井壽之歌 《直到世界的盡頭》.mp3'
+    音訊: 'https://shuma-music.pages.dev/music/灌籃高手 三井壽之歌 《直到世界的盡頭》.mp3'
   },
   {
     標題: 'My Love',
     藝術家: 'Westlife',
     覆蓋物: 'https://images.unsplash.com/photo-1493225545571-aeb161ffa5f?w=500&h=500&fit=crop',
-    音訊: 'https://shuma-music.pages.dev/Westlife-My Love.mp3'
+    音訊: 'https://shuma-music.pages.dev/music/Westlife-My Love.mp3'
   },
   {
     標題: '千千阙歌',
     藝術家: '陈慧娴',
     覆蓋物: 'https://images.unsplash.com/photo-1514320249184-2e0a9bf2a9ae?w=500&h=500&fit=crop',
-    音訊: 'https://shuma-music.pages.dev/陈慧娴 - 千千阅歌 【来自纵使是千千阅歌】.mp3'
+    音訊: 'https://shuma-music.pages.dev/music/陈慧娴 - 千千阙歌 【来日纵使千千阙歌】.mp3'
   },
   {
     標題: '梦醒时分',
     藝術家: '陈淑桦',
     覆蓋物: 'https://images.unsplash.com/photo-1506157786151-b8491531f063?w=500&h=500&fit=crop',
-    音訊: 'https://shuma-music.pages.dev/陳淑樺 Sarah Chen【夢醒時分 Dream to Awakening】官方完整版MV.mp3'
+    音訊: 'https://shuma-music.pages.dev/music/陳淑樺 Sarah Chen【夢醒時分 Dream to Awakening】官方完整版MV.mp3'
   },
   {
     標題: 'The Day You Went Away',
     藝術家: 'M2M',
     覆蓋物: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&h=500&fit=crop',
-    音訊: 'https://shuma-music.pages.dev/M2M-The Day You Went Away-《第一次亲密接触》电影主题曲.mp3'
+    音訊: 'https://shuma-music.pages.dev/music/M2M-The Day You Went Away-《第一次亲密接触》电影主题曲.mp3'
   },
   {
     標題: 'Yesterday Once More',
     藝術家: 'Carpenters',
     覆蓋物: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=500&h=500&fit=crop',
-    音訊: 'https://shuma-music.pages.dev/Carpenters-Yesterday Once More-《大龄剩男》插曲.mp3'
+    音訊: 'https://shuma-music.pages.dev/music/与你共随 (网剧《大龄剩男》主题曲)_32k.mp3'
   },
-  {
-    標題: '与你共随',
-    藝術家: '网剧《大龄剩男》主题曲',
-    覆蓋物: 'https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=500&h=500&fit=crop',
-    音訊: 'https://shuma-music.pages.dev/与你共随 (网剧《大龄剩男》主题曲)_32k.mp3'
-  }
 ];
 
 /**
